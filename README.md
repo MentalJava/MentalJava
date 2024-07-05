@@ -1,16 +1,43 @@
-### Hi there 👋
+<div align=center>
+  
+![colorcat-removebg-preview](https://github.com/MentalJava/MentalJava/assets/107596556/45303f2e-012e-4f5f-967e-8756aa97e355)
 
-<!--
-**MentalJava/MentalJava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=ff7f50&lines=Hi+there+I'm+Ujun!!🦊;안녕하세요+시유준+입니다🦊&font=Gaegu&size=32)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔎 About Me 🔍
+
+🐈 **저는 고양이를 좋아해요.** <br>
+  I Love Cat !!!
+
+🎹 **피아노를 치거나 노래를 부르면서 스트레스를 풀어요.** <br>
+  I relieve my stress by playing the piano or singing
+
+🏋️‍♀️ **여러 운동을 즐겨 합니다.** <br>
+  I enjoy various exercises!
+
+🐤 **좋은 개발자가 되도록 노력하겠습니다 !** <br>
+   I will try to be a good developer!
+
+<br>
+
+## 📝 Side Project 📝
+
+- add it soon.
+
+- add it soon.
+
+- add it soon.
+
+<br>
+
+## ⚙ Tech Stack ⚙
+<div align=center>
+<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</div>
+
+<br>
