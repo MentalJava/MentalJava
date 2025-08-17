@@ -24,11 +24,11 @@
 
 ## 📝 Side Project 📝
 
-- add it soon.
+- [Earth Star](https://github.com/MentalJava/earth-star)
 
-- add it soon.
+- [개수방 프로젝트](https://github.com/devlink-community/gaesubang-app)
 
-- add it soon.
+- [달릴까말까 (Run or Not)](https://github.com/APPisode-Dev/run-or-not)
 
 <br>
 
